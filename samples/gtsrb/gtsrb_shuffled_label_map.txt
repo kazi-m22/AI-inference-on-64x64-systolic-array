@@ -1,0 +1,44 @@
+original_id	shuffled_id	class_name
+0	28	Speed limit (20km/h)
+1	18	Speed limit (30km/h)
+2	24	Speed limit (50km/h)
+3	32	Speed limit (60km/h)
+4	40	Speed limit (70km/h)
+5	4	Speed limit (80km/h)
+6	42	End of speed limit (80km/h)
+7	27	Speed limit (100km/h)
+8	7	Speed limit (120km/h)
+9	16	No passing
+10	5	No passing for vehicles over 3.5 metric tons
+11	21	Right-of-way at the next intersection
+12	34	Priority road
+13	39	Yield
+14	30	Stop
+15	23	No vehicles
+16	26	Vehicles over 3.5 metric tons prohibited
+17	20	No entry
+18	37	General caution
+19	10	Dangerous curve to the left
+20	3	Dangerous curve to the right
+21	38	Double curve
+22	31	Bumpy road
+23	17	Slippery road
+24	25	Road narrows on the right
+25	6	Road work
+26	15	Traffic signals
+27	11	Pedestrians
+28	29	Children crossing
+29	9	Bicycles crossing
+30	35	Beware of ice/snow
+31	22	Wild animals crossing
+32	19	End of all speed and passing limits
+33	0	Turn right ahead
+34	12	Turn left ahead
+35	14	Ahead only
+36	41	Go straight or right
+37	2	Go straight or left
+38	36	Keep right
+39	33	Keep left
+40	1	Roundabout mandatory
+41	13	End of no passing
+42	8	End of no passing by vehicles over 3.5 metric tons

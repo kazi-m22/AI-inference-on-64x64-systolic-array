@@ -1,0 +1,11 @@
+CIFAR-10 Label Shuffle Map:
+Original: 0 (airplane) -> New Label: 7
+Original: 1 (automobile) -> New Label: 3
+Original: 2 (bird) -> New Label: 2
+Original: 3 (cat) -> New Label: 8
+Original: 4 (deer) -> New Label: 5
+Original: 5 (dog) -> New Label: 6
+Original: 6 (frog) -> New Label: 9
+Original: 7 (horse) -> New Label: 4
+Original: 8 (ship) -> New Label: 0
+Original: 9 (truck) -> New Label: 1

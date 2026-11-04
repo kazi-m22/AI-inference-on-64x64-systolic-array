@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.log
+.DS_Store
+.ipynb_checkpoints/
+.heartbeat
+*.tmp
